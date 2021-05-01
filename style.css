@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: rgba(195, 202, 206, 0.335);
+    background-color: rgba(219, 223, 224, 0.335);
     font-family: 'Poppins', sans-serif;
 }
 
@@ -21,7 +21,7 @@ a{
 
 .header{
     background: radial-gradient(#fff, #ffd6d6);
-   min-height: 100vh       ;
+    min-height: 100vh       ;
 }
 
 .header .row{
